@@ -1,5 +1,3 @@
-On Error Resume Next
-
 ' Properly declare everything
 Dim shell, remoteFile, wmi_os_caption, securityCenterWMI, avItems, fso, localFile, bitsadminReturn, objProcess
 
